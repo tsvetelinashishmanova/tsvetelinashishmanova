@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm Tsvetelina :cherry_blossom:
+- I'm a management student :woman_student:
+- I'm interested in coding :woman_technologist:
 
 <!--
 **tsvetelinashishmanova/tsvetelinashishmanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
